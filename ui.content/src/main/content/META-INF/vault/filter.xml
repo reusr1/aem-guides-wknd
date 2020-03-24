@@ -7,9 +7,9 @@
     <filter root="/conf/wknd/settings/wcm" mode="update" />
 
     <!-- Content Filters -->
-    <filter root="/content/wknd" mode="merge" />
+    <filter root="/content/wknd" mode="replace" />
     <filter root="/content/dam/wknd" mode="merge"/>
-    <filter root="/content/experience-fragments/wknd" mode="merge"/>
+    <filter root="/content/experience-fragments/wknd" mode="replace"/>
     <filter root="/content/cq:tags/wknd" mode="merge"/>
 
     <!-- WKND Member Group-->

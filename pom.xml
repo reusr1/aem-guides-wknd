@@ -23,7 +23,6 @@
    <description>WKND Sites Project</description>
 
     <modules>
-        <module>all</module>
         <module>core</module>
         <module>ui.frontend</module>
         <module>ui.apps</module>
@@ -32,6 +31,7 @@
         <module>it.launcher</module>
         <module>repository-structure</module>
         <module>dispatcher</module>
+        <module>all</module>
     </modules>
 
     <properties>
